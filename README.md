@@ -1,4 +1,10 @@
-### Hi there 👋
+### About me
+
+I am a Ph.D. candidate in Computer Science in the Khoury College of Computer Sciences at Northeastern University. I am working in The Helping Hands Lab, advised by Professor Robert Platt and Professor Robin Walters. My research interests include Machine Learning and Robotics. Recently, my research has focused on applying equivariant machine learning methods to robotic manipulation to improve learning efficiency.
+
+Prior to the Ph.D. program, I received my Master’s degree in Computer Science from Northeastern University and my Bachelor’s degree in Computer Science and Technology from Sichuan University, Chengdu, China.
+
+🔗Personal website: [pointw.github.io](pointw.github.io)
 
 <!--
 **pointW/pointW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
