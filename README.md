@@ -4,7 +4,7 @@ I am a Ph.D. candidate in Computer Science in the Khoury College of Computer Sci
 
 Prior to the Ph.D. program, I received my Master’s degree in Computer Science from Northeastern University and my Bachelor’s degree in Computer Science and Technology from Sichuan University, Chengdu, China.
 
-🔗Personal website: https://pointw.github.io
+🔗Personal website: https://dianwang.io
 
 <!--
 **pointW/pointW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
