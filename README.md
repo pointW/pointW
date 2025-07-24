@@ -1,8 +1,6 @@
 ### About me
 
-I am a Ph.D. candidate in Computer Science in the Khoury College of Computer Sciences at Northeastern University. I am working in The Helping Hands Lab, advised by Professor Robert Platt and Professor Robin Walters. My research interests include Machine Learning and Robotics. Recently, my research has focused on applying equivariant machine learning methods to robotic manipulation to improve learning efficiency.
-
-Prior to the Ph.D. program, I received my Master’s degree in Computer Science from Northeastern University and my Bachelor’s degree in Computer Science and Technology from Sichuan University, Chengdu, China.
+I am a Postdoctoral researcher at Stanford University working with Prof. Shuran Song and Prof. Jeannette Bohg. I obtained my Ph.D. at Northeastern University with Prof. Robert Platt and Prof. Robin Walters. My research interests include machine learning and robotics, with a focus on improving sample efficiency and generalization of robot learning.
 
 🔗Personal website: https://dianwang.io
 
